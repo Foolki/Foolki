@@ -17,7 +17,7 @@ I really enjoy bridging the gap between heavy backend logic and smooth, performa
 
 ## Projects I've Been Building Lately
 
-### [AI Project Insight](https://github.com/Foolki/ai-project-insight)
+### 🧠 [AI Project Insight](https://github.com/Foolki/ai-project-insight)
 I wanted to see how far you can push automated code analysis without sending private repository data to cloud APIs. This engine combines Dockerized static code analyzers (`Pylint`, `Radon`) with local AI insights.
 * **How it works:** It boots up an isolated environment, runs metrics, and uses an asynchronous `Ollama` instance running `Llama 3` to evaluate code architecture.
 * **The Stack:** Python, FastAPI, Docker, Ollama, Streamlit.
