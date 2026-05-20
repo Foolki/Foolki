@@ -48,3 +48,4 @@ I'm always down to talk about fullstack development, data visualization, green t
 
 * 📍 Based in Berlin, Germany
 * 📬 Feel free to check out my repositories or reach out for a technical chat!
+* Portfolio https://foolkekuehn-portfolio.netlify.app
