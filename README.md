@@ -29,7 +29,7 @@ A project aimed at making abstract energy data tangible for homeowners. Instead 
 
 ### [🌐 KINETIC - Live Environment Monitoring System](https://github.com/Foolki/KINETIC-LiveEnvironmentMonitoring)
 A modular project I built to track and visualize environmental sensor data in real-time. It handles everything from receiving raw inputs to processing and displaying metrics like PM2.5 or NO2 levels in a clean dashboard.
-* **How it works:**I used a queue-based architecture with BullMQ and Redis to make sure data processing stays stable even if errors occur. The data is stored in MongoDB, and I chose Astro for the dashboard because it’s super fast and gives a really smooth experience for managing the system.
+* **How it works:** I used a queue-based architecture with BullMQ and Redis to make sure data processing stays stable even if errors occur. The data is stored in MongoDB, and I chose Astro for the dashboard because it’s super fast and gives a really smooth experience for managing the system.
 * **The Stack:** Astro, Express.js, BullMQ, Redis, MongoDB.
   
 ### 🛰️ [Reactive IoT Stream Processor](https://github.com/Foolki/architecture-logic-samples)
